@@ -1,0 +1,239 @@
+# Copyright (C) 2016 BP Better Registration
+# This file is distributed under the same license as the BP Better Registration package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Better Registration 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/better-bp-"
+"registration\n"
+"POT-Creation-Date: 2016-11-20 12:21:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: core/ajax.php:228
+msgid "Your account is now active!"
+msgstr ""
+
+#: index.php:66
+msgctxt "recipient salutation"
+msgid "Hi %s,"
+msgstr ""
+
+#: index.php:80
+msgid ""
+"<a href=\"https://buddypress.org/\" target=\"_blank\">BuddyPress</a> plugin "
+"is required for \"Better BP Registration\" to work"
+msgstr ""
+
+#: templates/members/activate.php:93
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: templates/members/activate.php:97
+msgid "Activation Key:"
+msgstr ""
+
+#: templates/members/activate.php:101
+msgid "Activate"
+msgstr ""
+
+#: templates/members/parts/account-details.php:10
+msgid "Account setup"
+msgstr ""
+
+#: templates/members/parts/account-details.php:14
+msgid "First Name"
+msgstr ""
+
+#: templates/members/parts/account-details.php:18
+msgid "Last Name"
+msgstr ""
+
+#: templates/members/parts/account-details.php:22
+msgid "User Name"
+msgstr ""
+
+#: templates/members/parts/account-details.php:22
+#: templates/members/parts/account-details.php:34
+#: templates/members/parts/account-details.php:38
+#: templates/members/register.php:53 templates/members/register.php:57
+msgid "(required)"
+msgstr ""
+
+#: templates/members/parts/account-details.php:27
+msgid "Display Name"
+msgstr ""
+
+#: templates/members/parts/account-details.php:34
+msgid "Password"
+msgstr ""
+
+#: templates/members/parts/account-details.php:38
+msgid "Confirm password"
+msgstr ""
+
+#: templates/members/parts/account-details.php:47
+#: templates/members/parts/create-avatar.php:52
+#: templates/members/parts/groups.php:65
+#: templates/members/parts/xprofile-fields.php:115
+msgid "Save and continue"
+msgstr ""
+
+#: templates/members/parts/create-avatar.php:8
+msgid "Set your profile picture"
+msgstr ""
+
+#: templates/members/parts/create-avatar.php:21
+msgid "Upload a photo"
+msgstr ""
+
+#: templates/members/parts/create-avatar.php:24
+msgid "from you computer"
+msgstr ""
+
+#: templates/members/parts/create-avatar.php:30
+msgid "Take a photo"
+msgstr ""
+
+#: templates/members/parts/create-avatar.php:32
+msgid "with your webcam/mobile camera"
+msgstr ""
+
+#: templates/members/parts/create-avatar.php:46
+#: templates/members/parts/create-avatar.php:51
+#: templates/members/parts/friends.php:37
+#: templates/members/parts/groups.php:59 templates/members/parts/groups.php:64
+#: templates/members/parts/xprofile-fields.php:109
+#: templates/members/parts/xprofile-fields.php:114
+msgid "Skip"
+msgstr ""
+
+#: templates/members/parts/create-avatar.php:47
+#: templates/members/parts/friends.php:38
+#: templates/members/parts/groups.php:60
+#: templates/members/parts/xprofile-fields.php:110
+msgid "Finish"
+msgstr ""
+
+#: templates/members/parts/create-avatar.php:67
+#: templates/members/parts/create-avatar.php:79
+msgid "Save"
+msgstr ""
+
+#: templates/members/parts/create-avatar.php:78
+msgid "Take photo"
+msgstr ""
+
+#: templates/members/parts/friends.php:7
+msgid "Add friends"
+msgstr ""
+
+#: templates/members/parts/friends.php:12
+msgid "Your friends might already be on \"%s\". You can search and add them."
+msgstr ""
+
+#: templates/members/parts/friends.php:16
+msgid "We have found the following registered users with the name or email %s"
+msgstr ""
+
+#: templates/members/parts/friends.php:23
+msgid "Perform search"
+msgstr ""
+
+#: templates/members/parts/friends.php:28
+msgid "Search by name or email"
+msgstr ""
+
+#: templates/members/parts/groups.php:6
+msgid "Join Groups"
+msgstr ""
+
+#: templates/members/parts/groups.php:48
+msgid "Groups not found"
+msgstr ""
+
+#: templates/members/parts/xprofile-fields.php:46
+#: templates/members/parts/xprofile-fields.php:67
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: templates/members/parts/xprofile-fields.php:50
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+#: templates/members/parts/xprofile-fields.php:55
+msgid "Who can see this field?"
+msgstr ""
+
+#: templates/members/parts/xprofile-fields.php:60
+msgid "Close"
+msgstr ""
+
+#: templates/members/register.php:30
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: templates/members/register.php:45
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+#: templates/members/register.php:51
+msgid "Account Details"
+msgstr ""
+
+#: templates/members/register.php:53
+msgid "Email Address"
+msgstr ""
+
+#: templates/members/register.php:57
+msgid "Confirm Email Address"
+msgstr ""
+
+#: templates/members/register.php:65
+msgid "Complete Sign Up"
+msgstr ""
+
+#: templates/members/register.php:83
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account within 30 minutes via the email we have "
+"just sent to your address."
+msgstr ""
+
+#: templates/members/register.php:93
+msgid "Click here to resend activation email."
+msgstr ""
+
+#: templates/members/register.php:98
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BP Better Registration"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/better-bp-registration/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Make the registration process REALLY simple - reduce user resistance and "
+"increase community engagement."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "sooskriszta, abwebstudio1, topmba"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/sooskriszta"
+msgstr ""
